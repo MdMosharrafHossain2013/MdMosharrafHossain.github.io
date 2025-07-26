@@ -1,0 +1,11 @@
+research-website/
+├── index.html       (Home)
+├── about.html       (About Me)
+├── research.html    (Research)
+├── teaching.html    (Teaching)
+├── achievements.html (Achievements)
+├── publications.html (Publications)
+├── contact.html     (Contact)
+├── css/
+│   └── style.css    (Shared styles)
+└── images/          (Store all images)
